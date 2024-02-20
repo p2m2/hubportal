@@ -1,8 +1,5 @@
 title: P2M2 Hub portal
 description: The P2M2 Central Hub serves as the centralized gateway to the dematerialized tools developed by the P2M2 metabolomics platform 
 theme: minima
-header_pages:
-  - about.md
-  - portfolio.md
 plugins:
   - jekyll-target-blank

@@ -32,4 +32,5 @@
 
 ## RDF on a Spark Datalake
 
-[Sansa RDF Tutorial: Harnessing RDF in a Spark Datalake](https://p2m2.github.io/tp-big-data-scala-spark-sansa/)
+- [Sansa RDF Tutorial: Harnessing RDF in a Spark Datalake](https://p2m2.github.io/tp-big-data-scala-spark-sansa/)
+- [Integration and Exploitation of Knowledge Graphs in Metabolomics on a Distributed Big Data Architecture](https://unh-pfem-gitlab.ara.inrae.fr/metabosemdatalake/msd-database-management)
