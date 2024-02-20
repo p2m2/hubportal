@@ -16,15 +16,16 @@
 - [mzxml-glucosinolate-analyser](https://github.com/p2m2/mzxml-glucosinolate-analyser): Ion detection eligible for the characterization of glucosinolate and phenolic metabolites. 
 - [Identification and Quantification of Glucosinolates and Phenolics in a Large Panel of Brassica napus Highlight Valuable Genetic Resources for Chemical Ecology and Breeding.](https://pubs.acs.org/doi/10.1021/acs.jafc.1c08118)
 
-### Spark / Datalake software development
+### Spark / Datalake Software Development
 
-[stream-reader-mzxml](https://github.com/p2m2/stream-reader-mzxml). A Scala library specializing in stream processing of mzXML files, based on FS2.
+- [stream-reader-mzxml](https://github.com/p2m2/stream-reader-mzxml): A Scala library specializing in stream processing of mzXML files, based on FS2.
+
 
 ## API Services tools
 
 - [service-p2m2tools-api](https://github.com/p2m2/service-p2m2tools-api). Service to parse the formats of the metabolomics data acquisition devices of the P2M2 platform 
 
-## Web Semantic
+## Web Semantic
 
 ### Development of APIs for Data Accessibility in Open Science
 
