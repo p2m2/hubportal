@@ -1,5 +1,6 @@
 title: P2M2 Central Hub
 remote_theme: pages-themes/dinky@v0.2.0
+show_downloads: false
 plugins:
   - jekyll-target-blank
   - jekyll-remote-theme
