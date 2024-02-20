@@ -1,10 +1,10 @@
-## Bioinformatics / Metabolomics Software
+# Bioinformatics / Metabolomics Software
 
 The P2M2 Central Hub serves as the centralized gateway to the dematerialized tools developed by the P2M2 metabolomics platform 
 
 ## Online Tools
 
-### Manipulating File Formats in Metabolomics
+### Manipulating File Formats in Metabolomics
 
 - [General statistics for MGF mascot files containing MS/MS data. Detection of co-eluted MS features.](https://p2m2.github.io/mgf-p2m2-tools/)
 - [Identifying Common Ions of Interest Across XCMS Files.](https://p2m2.github.io/xcms-p2m2-tools/)
@@ -20,21 +20,20 @@ The P2M2 Central Hub serves as the centralized gateway to the dematerialized too
 
 - [Oligopeptides Matching.](https://p2m2.shinyapps.io/oligopeptides_matching/) 
 - [mzxml-glucosinolate-analyser](https://github.com/p2m2/mzxml-glucosinolate-analyser): Ion detection suitable for characterizing glucosinolate and phenolic metabolites, as described in [Identification and Quantification of Glucosinolates and Phenolics in a Large Panel of Brassica napus, Highlighting Valuable Genetic Resources for Chemical Ecology and Breeding](https://pubs.acs.org/doi/10.1021/acs.jafc.1c08118).
-``
 
 ### API Services tools
 
-- [service-p2m2tools-api](https://github.com/p2m2/service-p2m2tools-api). Service to parse the formats of the metabolomics data acquisition devices of the P2M2 platform 
+- [service-p2m2tools-api](https://github.com/p2m2/service-p2m2tools-api) is an HTTP service designed to handle requests for parsing the formats of metabolomics data acquisition devices used on the P2M2 platform
 
 ### Parsing mzXML Format
 
-- [stream-reader-mzxml](https://github.com/p2m2/stream-reader-mzxml): A Scala library specializing in stream processing of mzXML files, based on FS2.
+- [stream-reader-mzxml](https://github.com/p2m2/stream-reader-mzxml) is a Scala library specializing in stream processing of mzXML files, based on FS2.
 
 ## Web Semantic
 
 ### Development of APIs for Data Accessibility in Open Science
 
-- [Discovery](https://github.com/p2m2/discovery): Discovery provides a powerful toolset for developers who are looking to build UIs using RDF data in a robust software development process.
+- [Discovery](https://github.com/p2m2/discovery) provides a powerful toolset for developers who are looking to build UIs using RDF data in a robust software development process.
 
 ## RDF on a Spark Datalake
 
