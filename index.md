@@ -1,5 +1,7 @@
 ## Bioinformatics / Metabolomics Software
 
+The P2M2 Central Hub serves as the centralized gateway to the dematerialized tools developed by the P2M2 metabolomics platform 
+
 ### Online Tools for Manipulating File Formats in Metabolomics
 
 - [General statistics for MGF mascot files containing MS/MS data. Detection of co-eluted MS features.](https://p2m2.github.io/mgf-p2m2-tools/)
@@ -13,8 +15,8 @@
 ### Software Development in Metabolomics
 
 - [Oligopeptides Matching.](https://p2m2.shinyapps.io/oligopeptides_matching/) 
-- [mzxml-glucosinolate-analyser](https://github.com/p2m2/mzxml-glucosinolate-analyser): Ion detection eligible for the characterization of glucosinolate and phenolic metabolites. 
-- [Identification and Quantification of Glucosinolates and Phenolics in a Large Panel of Brassica napus Highlight Valuable Genetic Resources for Chemical Ecology and Breeding.](https://pubs.acs.org/doi/10.1021/acs.jafc.1c08118)
+- [mzxml-glucosinolate-analyser](https://github.com/p2m2/mzxml-glucosinolate-analyser): Ion detection suitable for characterizing glucosinolate and phenolic metabolites, as described in [Identification and Quantification of Glucosinolates and Phenolics in a Large Panel of Brassica napus, Highlighting Valuable Genetic Resources for Chemical Ecology and Breeding](https://pubs.acs.org/doi/10.1021/acs.jafc.1c08118).
+``
 
 ### Spark / Datalake Software Development
 
