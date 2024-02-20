@@ -17,4 +17,4 @@
 ### Metabolomics Software
 
 - [mzxml-glucosinolate-analyser](https://github.com/p2m2/mzxml-glucosinolate-analyser): Ion detection eligible for the characterization of glucosinolate and phenolic metabolites. 
-  - [Identification and Quantification of Glucosinolates and Phenolics in a Large Panel of Brassica napus Highlight Valuable Genetic Resources for Chemical Ecology and Breeding.](https://pubs.acs.org/doi/10.1021/acs.jafc.1c08118)
+- [Identification and Quantification of Glucosinolates and Phenolics in a Large Panel of Brassica napus Highlight Valuable Genetic Resources for Chemical Ecology and Breeding.](https://pubs.acs.org/doi/10.1021/acs.jafc.1c08118)
